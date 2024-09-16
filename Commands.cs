@@ -1,6 +1,6 @@
 public class Commands
 {
-    public void List()
+    public void  List()
     {
         Console.WriteLine("Here are the base commands:");
         Console.WriteLine("");
