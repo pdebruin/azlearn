@@ -1,0 +1,6 @@
+@apilearn_HostAddress = http://localhost:5162
+
+GET {{apilearn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
